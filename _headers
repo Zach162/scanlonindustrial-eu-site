@@ -1,0 +1,24 @@
+/assets/template/footer.asp
+  Content-Type: text/html; charset=utf-8
+
+/assets/template/head.asp
+  Content-Type: text/html; charset=utf-8
+
+/assets/template/header.asp
+  Content-Type: text/html; charset=utf-8
+
+/index.asp
+  Content-Type: text/html; charset=utf-8
+
+/privacy-policy.asp
+  Content-Type: text/html; charset=utf-8
+
+/sitemap.asp
+  Content-Type: text/html; charset=utf-8
+
+/terms-of-use.asp
+  Content-Type: text/html; charset=utf-8
+
+/thank-you.asp
+  Content-Type: text/html; charset=utf-8
+
