@@ -59,7 +59,6 @@
 					
 				</div>
 				<div class="grid__column grid__column--12 grid__column--6--xl footer-copyright--right">
-					<span data-aos="fade" data-aos-delay="0" data-aos-anchor-placement="top-bottom">Website Designed and Developed by <a href="https://agmsolutions.com" target="_blank" class="nowrap">AG Marketing Solutions</a></span>
 				</div>
 			</div>
 		</div>
