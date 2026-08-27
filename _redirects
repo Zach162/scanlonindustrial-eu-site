@@ -1,1 +1,9 @@
-/  /index.asp  200!
+/index.asp  /  301
+/privacy-policy.asp  /privacy-policy  301
+/privacy-policy  /privacy-policy.html  200
+/sitemap.asp  /sitemap  301
+/sitemap  /sitemap.html  200
+/terms-of-use.asp  /terms-of-use  301
+/terms-of-use  /terms-of-use.html  200
+/thank-you.asp  /thank-you  301
+/thank-you  /thank-you.html  200
