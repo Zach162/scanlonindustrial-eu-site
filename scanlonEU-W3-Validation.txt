@@ -1,0 +1,25 @@
+W3 Validation
+
+Home
+https://scanlonindustrial.eu/
+17 errors - Spaces in IDs
+2errors - Duplicate IDs
+
+Privacy Policy
+https://scanlonindustrial.eu/privacy-policy
+16 errors - Spaces in IDs
+2errors - Duplicate IDs
+
+Terms of Use
+https://scanlonindustrial.eu/terms-of-use
+16 errors - Spaces in IDs
+2errors - Duplicate IDs
+
+Sitemap
+https://scanlonindustrial.eu/sitemap
+16 errors - Spaces in IDs
+2errors - Duplicate IDs
+
+CSS
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fscanlonindustrial.eu%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+64 errors - transition-delay

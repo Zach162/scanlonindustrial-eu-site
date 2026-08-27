@@ -1,0 +1,4 @@
+# robots.txt for https://www.scanlonindustrial.eu
+
+User-agent: *
+Disallow: 
